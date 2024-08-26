@@ -35,7 +35,8 @@ GIF created with GIPHY
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+There weren't any challenges encountered while building the app but I did have challenges 
+during the submission process with creating the GIF.
 
 ## License
 
